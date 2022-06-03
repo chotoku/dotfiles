@@ -1,0 +1,9 @@
+git@github.com:kouzoh/osusume-item-api.git
+git@github.com:kouzoh/mercari-user-recommend-jp.git
+git@github.com:kouzoh/mercari-similar-item-jp.git
+git@github.com:kouzoh/mercari-recommend-jp-dags.git
+git@github.com:kouzoh/recommendation-jp-experiments-config.git
+git@github.com:kouzoh/microservices-kubernetes.git
+git@github.com:kouzoh/microservices-terraform.git
+git@github.com:kouzoh/recommendation-jp-abtest-analysis-config.git
+git@github.com:kouzoh/platform-proto.git
