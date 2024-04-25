@@ -1,22 +1,39 @@
-# Python
-brew "direnv"
-brew "python"
-
-# Utilities
-brew "git"
-brew "vim"
-brew "jq"
-brew "grpcurl"
-
-# Java
+tap "datawire/blackbird"
+tap "gromgit/fuse"
+tap "homebrew/bundle"
 tap "homebrew/cask-versions"
-cask "temurin11"
-
-# Scala
-brew "sbt"
-
-# Go
+tap "kouzoh/merknife"
+brew "berkeley-db"
+brew "pycparser"
+brew "cffi"
+brew "direnv"
+brew "gh"
+brew "git"
+brew "unbound"
+brew "gnutls"
+brew "gnupg"
 brew "go"
-
-# GCP
+brew "go@1.19"
+brew "golangci-lint"
+brew "grpcurl"
+brew "jq"
+brew "python@3.11"
+brew "jsonschema"
+brew "kubectx"
+brew "openssl@1.1"
+brew "perl"
+brew "virtualenv"
+brew "poetry"
+brew "python@3.10"
+brew "python@3.9"
+brew "redis"
+brew "sbt"
+brew "scala"
+brew "vim"
+brew "watch"
+brew "datawire/blackbird/telepresence-arm64"
+brew "gromgit/fuse/sshfs-mac"
+brew "kouzoh/merknife/merknife"
 cask "google-cloud-sdk"
+cask "macfuse"
+cask "temurin11"
